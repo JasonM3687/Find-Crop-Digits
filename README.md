@@ -10,4 +10,5 @@ Python algorithm using opencv to recognize and crop individual hand written digi
 ![Capture 4](https://user-images.githubusercontent.com/57767833/167048290-bc02895d-1bc0-4a09-938b-3e4d6ae99d70.PNG)
 ![Capture 5](https://user-images.githubusercontent.com/57767833/167048293-f9abd3c4-a220-42d8-9c4f-41a2bf435c29.PNG)
 ![Capture 6](https://user-images.githubusercontent.com/57767833/167048294-f10d3189-a6ef-4c40-998d-641e29911a77.PNG)
+
 (28x28 Mnist format)
