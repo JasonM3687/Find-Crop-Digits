@@ -1,5 +1,6 @@
 # Find-Crop-Digits
 Python algorithm using opencv to recognize and crop individual hand written digits in a given image
+
 ![Capture](https://user-images.githubusercontent.com/57767833/167048247-1994e6a2-ba66-4732-8752-272c9ae088b1.PNG)
 
 ![Capture 2](https://user-images.githubusercontent.com/57767833/167048269-317f39c2-4472-4f6b-967e-459592dd24ca.PNG)
